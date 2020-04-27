@@ -1,13 +1,25 @@
 .jumbotron{
 	/*padding: 70px 30px 70px 30px;*/
-	height: 400px;
-	margin: 0px auto;
+	height: 700px;
+	/*margin: 0px auto;*/
 	background-image:url("img/eliudkipchoge.jpg");
 	background-size: cover;
-	color: black;  	
+	/*color: black; */ 	
 }
-.lead{
+/*.lead{
 	font-family: sans-serif;
-}
+}*/
 
 /*/home/bhavuk/git_workspace/Bpahuja298.github.io/img/eliudkipchoge.jpg*/
+
+h1{
+	font-family: 'Roboto Slab', serif;
+	font-size: 90px;
+}
+p{
+	font-family: 'Spartan', sans-serif;
+	font-size: 30px;
+}
+.row-content{
+	padding: 50px 0px 50px 0px;
+}
